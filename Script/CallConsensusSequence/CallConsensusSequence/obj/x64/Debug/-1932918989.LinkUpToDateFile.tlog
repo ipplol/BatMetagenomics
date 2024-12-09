@@ -1,0 +1,1 @@
+g++ -o "/home/mawentai/APP/CPlusPlusShell/CallConsensusSequence/bin/x64/Debug/CallConsensusSequence.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack -std=c++11 -pthread /home/mawentai/APP/CPlusPlusShell/CallConsensusSequence/obj/x64/Debug/main.o

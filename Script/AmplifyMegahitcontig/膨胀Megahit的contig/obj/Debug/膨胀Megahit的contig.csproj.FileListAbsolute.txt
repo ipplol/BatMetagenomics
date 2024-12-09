@@ -1,0 +1,14 @@
+C:\Users\lilab\OneDrive\BIG\程序\微生物组\蝙蝠\膨胀Megahit的contig\膨胀Megahit的contig\bin\Debug\膨胀Megahit的contig.exe.config
+C:\Users\lilab\OneDrive\BIG\程序\微生物组\蝙蝠\膨胀Megahit的contig\膨胀Megahit的contig\bin\Debug\膨胀Megahit的contig.exe
+C:\Users\lilab\OneDrive\BIG\程序\微生物组\蝙蝠\膨胀Megahit的contig\膨胀Megahit的contig\bin\Debug\膨胀Megahit的contig.pdb
+C:\Users\lilab\OneDrive\BIG\程序\微生物组\蝙蝠\膨胀Megahit的contig\膨胀Megahit的contig\obj\Debug\膨胀Megahit的contig.csproj.AssemblyReference.cache
+C:\Users\lilab\OneDrive\BIG\程序\微生物组\蝙蝠\膨胀Megahit的contig\膨胀Megahit的contig\obj\Debug\膨胀Megahit的contig.csproj.CoreCompileInputs.cache
+C:\Users\lilab\OneDrive\BIG\程序\微生物组\蝙蝠\膨胀Megahit的contig\膨胀Megahit的contig\obj\Debug\膨胀Megahit的contig.exe
+C:\Users\lilab\OneDrive\BIG\程序\微生物组\蝙蝠\膨胀Megahit的contig\膨胀Megahit的contig\obj\Debug\膨胀Megahit的contig.pdb
+C:\Users\lilab\OneDrive\BIG\程序\微生物组\蝙蝠\AmplifyMegahitcontig\膨胀Megahit的contig\bin\Debug\膨胀Megahit的contig.exe.config
+C:\Users\lilab\OneDrive\BIG\程序\微生物组\蝙蝠\AmplifyMegahitcontig\膨胀Megahit的contig\bin\Debug\膨胀Megahit的contig.exe
+C:\Users\lilab\OneDrive\BIG\程序\微生物组\蝙蝠\AmplifyMegahitcontig\膨胀Megahit的contig\bin\Debug\膨胀Megahit的contig.pdb
+C:\Users\lilab\OneDrive\BIG\程序\微生物组\蝙蝠\AmplifyMegahitcontig\膨胀Megahit的contig\obj\Debug\膨胀Megahit的contig.csproj.AssemblyReference.cache
+C:\Users\lilab\OneDrive\BIG\程序\微生物组\蝙蝠\AmplifyMegahitcontig\膨胀Megahit的contig\obj\Debug\膨胀Megahit的contig.csproj.CoreCompileInputs.cache
+C:\Users\lilab\OneDrive\BIG\程序\微生物组\蝙蝠\AmplifyMegahitcontig\膨胀Megahit的contig\obj\Debug\膨胀Megahit的contig.exe
+C:\Users\lilab\OneDrive\BIG\程序\微生物组\蝙蝠\AmplifyMegahitcontig\膨胀Megahit的contig\obj\Debug\膨胀Megahit的contig.pdb

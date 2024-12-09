@@ -1,0 +1,65 @@
+﻿  正在启动远程生成
+  正在编译源:
+  main.cpp
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(50,36): warning : conversion from ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} to ‘int’ may change value [-Wconversion]
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(50,36): warning :    50 |         int ind = str.find_first_of(delimiter);
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(50,36): warning :       |                   ~~~~~~~~~~~~~~~~~^~~~~~~~~~~
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(100,19): warning : comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<std::__cxx11::basic_string<char> >::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(100,19): warning :   100 |     for (i = 0; i < FourNuc.size(); i++)//降序排序
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(100,19): warning :       |                 ~~^~~~~~~~~~~~~~~~
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(101,27): warning : comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<std::__cxx11::basic_string<char> >::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(101,27): warning :   101 |         for (j = i + 1; j < FourNuc.size(); j++)
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(101,27): warning :       |                         ~~^~~~~~~~~~~~~~~~
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(117,19): warning : comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<std::__cxx11::basic_string<char> >::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(117,19): warning :   117 |     for (i = 0; i < FourNuc.size(); i++)
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(117,19): warning :       |                 ~~^~~~~~~~~~~~~~~~
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(122,35): warning : comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<std::__cxx11::basic_string<char> >::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(122,35): warning :   122 |                 for (k = i + 1; k < FourNuc.size(); k++)
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(122,35): warning :       |                                 ~~^~~~~~~~~~~~~~~~
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(130,19): warning : comparison of integer expressions of different signedness: ‘int’ and ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(130,19): warning :   130 |     for (i = 0; i < ATCG.size(); i++)
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(130,19): warning :       |                 ~~^~~~~~~~~~~~~
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(131,32): warning : comparison of integer expressions of different signedness: ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} and ‘int’ [-Wsign-compare]
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(131,32): warning :   131 |         if (thseq.find(ATCG[i])!=-1) ATCGseq += ATCG[i];
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(131,32): warning :       |             ~~~~~~~~~~~~~~~~~~~^~~~
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(150,19): warning : comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<Nucleotide>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(150,19): warning :   150 |     for (i = 1; i < RawReadcounts.size(); i++)
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(150,19): warning :       |                 ~~^~~~~~~~~~~~~~~~~~~~~~
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(204,90): warning : comparison of integer expressions of different signedness: ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} and ‘int’ [-Wsign-compare]
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(204,90): warning :   204 |                             if (arg_base_ambiguous == false && RYMKSWHBVDN.find(Mainnuc) != -1)
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(204,90): warning :       |                                                                ~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(282,90): warning : comparison of integer expressions of different signedness: ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} and ‘int’ [-Wsign-compare]
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(282,90): warning :   282 |                             if (arg_base_ambiguous == false && RYMKSWHBVDN.find(Mainnuc) != -1)
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(282,90): warning :       |                                                                ~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(148,12): warning : unused variable ‘j’ [-Wunused-variable]
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(148,12): warning :   148 |     int i, j, k;
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(148,12): warning :       |            ^
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(148,15): warning : unused variable ‘k’ [-Wunused-variable]
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(148,15): warning :   148 |     int i, j, k;
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(148,15): warning :       |               ^
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(352,23): warning : comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<std::__cxx11::basic_string<char> >::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(352,23): warning :   352 |         for (j = 5; j < line1.size(); j++)
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(352,23): warning :       |                     ~~^~~~~~~~~~~~~~
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(417,27): warning : comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<std::__cxx11::basic_string<char> >::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(417,27): warning :   417 |             for (j = 5; j < line1.size(); j++)
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(417,27): warning :       |                         ~~^~~~~~~~~~~~~~
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(448,15): warning : statement has no effect [-Wunused-value]
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(448,15): warning :   448 |             a.MainnucCount;
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(448,15): warning :       |             ~~^~~~~~~~~~~~
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(328,9): warning : unused variable ‘i’ [-Wunused-variable]
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(328,9): warning :   328 |     int i, j, k;
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(328,9): warning :       |         ^
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(328,15): warning : unused variable ‘k’ [-Wunused-variable]
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(328,15): warning :   328 |     int i, j, k;
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(328,15): warning :       |               ^
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(479,55): warning : comparison with string literal results in unspecified behavior [-Waddress]
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(479,55): warning :   479 |             if (a == "-baseAmbiguous" && argv[i+1] == "true")arg_base_ambiguous = true;
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(479,55): warning :       |                                                       ^~~~~~
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(467,12): warning : unused variable ‘j’ [-Wunused-variable]
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(467,12): warning :   467 |     int i, j, k;
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(467,12): warning :       |            ^
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(467,15): warning : unused variable ‘k’ [-Wunused-variable]
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(467,15): warning :   467 |     int i, j, k;
+C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\main.cpp(467,15): warning :       |               ^
+  正在链接对象
+  CallConsensusSequence.vcxproj -> C:\Users\lilab\OneDrive\BIG\程序\Linux下的C++脚本\CallConsensusSequence\CallConsensusSequence\bin\x64\Debug\CallConsensusSequence.out

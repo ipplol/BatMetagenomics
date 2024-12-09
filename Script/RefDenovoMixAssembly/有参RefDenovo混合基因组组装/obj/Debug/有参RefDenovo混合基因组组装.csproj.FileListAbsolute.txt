@@ -1,0 +1,14 @@
+C:\Users\lilab\OneDrive\BIG\程序\微生物组\蝙蝠\有参RefDenovo混合基因组组装\有参RefDenovo混合基因组组装\bin\Debug\有参RefDenovo混合基因组组装.exe.config
+C:\Users\lilab\OneDrive\BIG\程序\微生物组\蝙蝠\有参RefDenovo混合基因组组装\有参RefDenovo混合基因组组装\bin\Debug\有参RefDenovo混合基因组组装.exe
+C:\Users\lilab\OneDrive\BIG\程序\微生物组\蝙蝠\有参RefDenovo混合基因组组装\有参RefDenovo混合基因组组装\bin\Debug\有参RefDenovo混合基因组组装.pdb
+C:\Users\lilab\OneDrive\BIG\程序\微生物组\蝙蝠\有参RefDenovo混合基因组组装\有参RefDenovo混合基因组组装\obj\Debug\有参RefDenovo混合基因组组装.csproj.AssemblyReference.cache
+C:\Users\lilab\OneDrive\BIG\程序\微生物组\蝙蝠\有参RefDenovo混合基因组组装\有参RefDenovo混合基因组组装\obj\Debug\有参RefDenovo混合基因组组装.csproj.CoreCompileInputs.cache
+C:\Users\lilab\OneDrive\BIG\程序\微生物组\蝙蝠\有参RefDenovo混合基因组组装\有参RefDenovo混合基因组组装\obj\Debug\有参RefDenovo混合基因组组装.exe
+C:\Users\lilab\OneDrive\BIG\程序\微生物组\蝙蝠\有参RefDenovo混合基因组组装\有参RefDenovo混合基因组组装\obj\Debug\有参RefDenovo混合基因组组装.pdb
+C:\Users\lilab\OneDrive\BIG\程序\微生物组\蝙蝠\RefDenovoMixAssembly\有参RefDenovo混合基因组组装\bin\Debug\有参RefDenovo混合基因组组装.exe.config
+C:\Users\lilab\OneDrive\BIG\程序\微生物组\蝙蝠\RefDenovoMixAssembly\有参RefDenovo混合基因组组装\bin\Debug\有参RefDenovo混合基因组组装.exe
+C:\Users\lilab\OneDrive\BIG\程序\微生物组\蝙蝠\RefDenovoMixAssembly\有参RefDenovo混合基因组组装\bin\Debug\有参RefDenovo混合基因组组装.pdb
+C:\Users\lilab\OneDrive\BIG\程序\微生物组\蝙蝠\RefDenovoMixAssembly\有参RefDenovo混合基因组组装\obj\Debug\有参RefDenovo混合基因组组装.csproj.AssemblyReference.cache
+C:\Users\lilab\OneDrive\BIG\程序\微生物组\蝙蝠\RefDenovoMixAssembly\有参RefDenovo混合基因组组装\obj\Debug\有参RefDenovo混合基因组组装.csproj.CoreCompileInputs.cache
+C:\Users\lilab\OneDrive\BIG\程序\微生物组\蝙蝠\RefDenovoMixAssembly\有参RefDenovo混合基因组组装\obj\Debug\有参RefDenovo混合基因组组装.exe
+C:\Users\lilab\OneDrive\BIG\程序\微生物组\蝙蝠\RefDenovoMixAssembly\有参RefDenovo混合基因组组装\obj\Debug\有参RefDenovo混合基因组组装.pdb
