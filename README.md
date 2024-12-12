@@ -40,7 +40,7 @@ The clean reads were classified using [Kraken2](https://github.com/DerrickWood/k
 
 De novo assemblies were generated using [MEGAHIT](https://github.com/voutcn/megahit).
 
->megahit -1 Dehost.p1.fq -2 Dehost.p2.fq -m 0.7 -t 20 -o megahit_out
+>_megahit -1 Dehost.p1.fq -2 Dehost.p2.fq -m 0.7 -t 20 -o megahit_out_
 
 ## **Mapping contigs to reference**
 Contigs longer than 500bp were retained and amplified based on their average depth using **C# script AmplifyMegahitcontig** before mapping to the _Staphylococcus nepalensis_ reference genome [GCA_002442935.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_002442935.1/) using Minimap2.
@@ -53,6 +53,7 @@ The reads assigned under genus _Staphylococcus_ were extracted using [SeqTK](htt
 >_python3 Script/filter.py KrakenReads.txt --taxid 1279--taxid_col 3 | cut -f 2 > 1279.reads.id_
 
 >_seqtk subseq Dehost.p1.fq 1279.reads.id > 1279.R1.fq_
+
 >_seqtk subseq Dehost.p2.fq 1279.reads.id > 1279.R2.fq_
 
 >_minimap2 -t 4 -a -x sr GCF_002442935.1_ASM244293v1_genomic.fna 1279.R1.fq 1279.R2.fq | samtools view -@ 8 -b -F 4 -h | samtools sort -@ 8 -o readsMapRef.bam_
