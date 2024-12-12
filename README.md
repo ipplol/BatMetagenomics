@@ -24,9 +24,9 @@ As no complete genome was available for _Pipistrellus abramus_, we chose all fou
 
 >_bowtie2-build Pipistrellus.fna Pipistrellus_
 
->_bowtie2 -p 20 -x Pipistrellus -1 p1.fq -2 p2.fq | samtools view -@ 20 -b -f 12 -F 2 | samtools sort -@ 20 -o Dehg38.bam_
+>_bowtie2 -p 20 -x Pipistrellus -1 p1.fq -2 p2.fq | samtools view -@ 20 -b -f 12 -F 2 | samtools sort -@ 20 -o Dehost.bam_
 
->_samtools fastq -@ 20 -1 Dehost.p1.fq -2 Dehost.p2.fq Dehg38.bam_
+>_samtools fastq -@ 20 -1 Dehost.p1.fq -2 Dehost.p2.fq Dehost.bam_
 
 
 ## **Taxonomy classification**
